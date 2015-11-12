@@ -21,6 +21,7 @@
 <merge
     xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin"
 >
+
     <Key
         latin:keySpec="z"
         latin:keyHintLabel="!"
@@ -54,4 +55,5 @@
         latin:keySpec="m"
         latin:keyHintLabel="\?"
         latin:additionalMoreKeys="\\?" />
+
 </merge>
